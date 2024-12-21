@@ -36,3 +36,5 @@ Learning_TensorFlow/tensorflow_version
 Learning_TensorFlow/mnist_model/
 MQTT/mqtt_example
 MQTT/Mosquitto/mosquitto_example
+Kalman_Filter/kf
+.vscode/*
