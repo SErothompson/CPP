@@ -24,7 +24,7 @@ public:
         
         if (!host) host = "localhost";
         if (!user) user = "root";
-        if (!password) password = "zAQ!08091983";
+        if (!password) password = "28bdcc8c2e23c9e8fa8b9138c41e038a";
         if (!database) database = "test";
     }
 
